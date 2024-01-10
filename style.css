@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    background: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.chapitre1{
+    text-decoration: underline;
+}
+
+.section_1{
+    color: #04f5bd;
+}
+
+.section_1 a{
+    color: #faebd7;
+}
+
+.section_2{
+    color: #04f5bd;
+}
+
+.section_2 a{
+    color: #faebd7;
+}
+
+.section_3{
+    color: #04f5bd;
+}
+
+.section_3 a{
+    color: #faebd7;
+}
+
+.texto{
+    color: azure ;
+}
+
+.chapitre1{
+    color:#e1ff00;
+}
